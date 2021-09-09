@@ -1,5 +1,19 @@
 # track-server-app
 
+## Get Started
+### Step: 1
+Perform `npm install` to install required node modules
+
+### Step: 2
+Create `.env` file on your root directory and add data mongoDB credentials
+```
+MY_SECRET_KEY=my_secret_key
+DB_NAME=my_database_name
+DB_USER=my_user_name
+DB_PASSWORD=my_password
+DB_HOST=my_host_name
+```
+
 ## Available Routes
 ### Sign up
 **URI:** `/signup`
