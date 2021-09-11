@@ -1,6 +1,6 @@
 # track-server-app
 
-## Get Started
+## Installation Guide
 ### Step: 1
 Perform `npm install` to install required node modules
 
